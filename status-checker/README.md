@@ -3,18 +3,18 @@ of documents in a given publishing job.
 
 The specific GateKeeper instance to access is specified via the configuration file.
 
-Inputs:
+# Inputs:
 
-Source:
-	CDR		 - Requests submitted by the CDR.
-	GateKeper Import - Requests loaded via the GateKeeper admin tool.
-	GateKeeper	 - Requests created by the "Reprocess All Documents" mechanism.
-	Web Service Test - Requests loaded by the GateKeeper testing tool.
+## Source:
+*	*CDR*		 - Requests submitted by the CDR.
+*	*GateKeper Import* - Requests loaded via the GateKeeper admin tool.
+*	*GateKeeper*	 - Requests created by the "Reprocess All Documents" mechanism.
+*	*Web Service Test* - Requests loaded by the GateKeeper testing tool.
 
-External ID:
+## External ID:
 	The request's external ID.  (From the admin tool's Request History page.)
 
-Report Type:
+## Report Type:
 	Summary - All the documents in a given request
 	DocumentLocation - Current processing status of the most recent version of all documents.
 
