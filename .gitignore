@@ -1,0 +1,15 @@
+
+# /
+/*.suo
+/*.ncb
+/*.sdf
+/*.opensdf
+/ipch
+/*.user
+/_ReSharper.*
+/[Bb]in
+/obj
+/[Dd]ebug
+/[Rr]elease
+/*.aps
+/*.eto
